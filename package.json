@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "element-plus": "2.2.28",
+    "qrcode.vue": "3.3.3",
+    "sass": "1.57.1",
+    "xgplayer": "3.0.5",
+    "xgplayer-mp4": "3.0.5"
+  },
+  "devDependencies": {
+    "@element-plus/nuxt": "1.0.5",
+    "@nuxt/devtools": "0.6.1",
+    "dayjs-nuxt": "1.1.2",
+    "nuxt": "3.6.5"
+  }
+}
